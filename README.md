@@ -1,4 +1,4 @@
-Project Title: ISP 500 Figma Prototype
+Project Title: ISP 500 Cimb Personal Loan application
 
 Description:
 
